@@ -1,2 +1,2 @@
-# khaltar.github.io
-My personal website
+# Portfolio
+My portfolio of projects connected with the Front-End Nanodegree at Udacity
